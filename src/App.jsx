@@ -14,7 +14,6 @@ const App = () => {
 
    <Card/>
    <Card/> 
-   <Card/> 
     </section>
     <section id='cards2.0'></section>
     <footer>
